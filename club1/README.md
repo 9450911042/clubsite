@@ -1,2 +1,0 @@
-# clubsite
-Club Landing Page
